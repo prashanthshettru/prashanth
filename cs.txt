@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 prashanth
 2nd cse
 department of cse
@@ -6,4 +6,4 @@ be in mycem
 mysuruy
 =======
 prashanthnew data added
->>>>>>> 1b65401 (cs-b)
+another data cs.txt
